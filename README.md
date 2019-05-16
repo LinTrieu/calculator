@@ -1,5 +1,6 @@
 # TDD Workshop Exercises
-Makers Academy: 14/05/2019
+Makers Academy: Week 2 - TDD 
+14/05/2019
 
 - Calculator example
 
